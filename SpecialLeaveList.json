@@ -1,0 +1,16 @@
+{  
+"SpecialLeaveList":[
+{
+"id": 1,"title": "Work From Home"},
+{
+"id": 2,"title": "Work On Holiday"},
+{
+"id": 3,"title": "On Duty"},
+{
+"id": 4,"title": "Loss Of Pay"},
+{
+"id": 5,"title": "Compensatory off"},
+{
+"id": 6,"title": "Maternity Leave"}
+]
+}
