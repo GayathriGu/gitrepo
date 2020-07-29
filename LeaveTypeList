@@ -1,0 +1,13 @@
+  
+{  
+"LeaveList":[
+{
+"id": 1,"title": "Earned Leave","days": "12 Days"},
+{
+"id": 2,"title": "Casual Leave","days": "10 Days"},
+{
+"id": 3,"title": "Paternity Leave","days": "3 Days"},
+{
+"id": 4,"title": "Bereavemnet Leave","days": "3 Days"},
+]
+}
